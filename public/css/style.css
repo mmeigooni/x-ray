@@ -1,5 +1,5 @@
 @import url(http://fonts.googleapis.com/css?family=Special+Elite|Bangers|Miltonian+Tattoo);
-body { text-align: center; background-image: url('img/doodles.png'); }
+body { text-align: center; background-image: url('/images/doodles.png'); }
 h1 { font-family: 'Bangers'; font-size: 4em; margin-bottom: 0; }
 h2 { font-family: 'Miltonian Tattoo'; font-size: 3em; margin: 0.25em; color: #424242; }
 h4 { font-family: 'Special Elite'; font-size: 2em; }
