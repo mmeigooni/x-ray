@@ -1,0 +1,18 @@
+@import url(http://fonts.googleapis.com/css?family=Special+Elite|Bangers|Miltonian+Tattoo);
+body { text-align: center; background-image: url('img/doodles.png'); }
+h1 { font-family: 'Bangers'; font-size: 4em; margin-bottom: 0; }
+h2 { font-family: 'Miltonian Tattoo'; font-size: 3em; margin: 0.25em; color: #424242; }
+h4 { font-family: 'Special Elite'; font-size: 2em; }
+p { font-family: 'Miltonian Tattoo'; }
+a { text-decoration: none; color: black; }
+a:hover { color: #00a8b8; }
+#nav-bar { list-style-type: none; }
+#nav-bar li { display: inline; margin: 0.25em 2em; font-family: 'Special Elite'; font-size: 2em; }
+.coaster-main { border-radius: 10px; border: 4px solid black; width: 500px; margin-bottom: 3em; }
+.coaster-right { margin-right: 3em; border-radius: 10px; border: 4px solid black; width: 500px; }
+.coaster-left { float: left; margin: 5em 0 3em 3em; border-radius: 10px; border: 4px solid black; width: 500px; }
+.left p { width: 500px; float: left; margin-left: 3em; font-size: 1.25em; }
+.right { float: right; }
+.right h3 { margin-top: 1em; font-family: 'Bangers'; font-size: 3em; }
+#coaster-list { font-family: 'Miltonian Tattoo'; font-size: 1em; margin-top: 2em; }
+footer { float: right; margin-top: 3em; margin-right: 1em; }
